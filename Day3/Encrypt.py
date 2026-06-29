@@ -1,0 +1,5 @@
+s=input()
+s=s.replace('A','a')
+s=s.replace('@','#')
+s=s.replace('1','2')
+print(s)
