@@ -1,2 +1,3 @@
 # Python_Programming_Training
-Ten days. Endless possibilities. A journey through Python powered by curiosity, daily coding challenges, algorithmic thinking, and hands-on problem solving.
+📅 10 Days of Python — daily code practice as I learn programming from the ground up. Each day covers new concepts with hands-on exercises and mini-challenges. Perfect for beginners or anyone revisiting the basics. Follow along or use it as a quick reference for your own learning journey!
+
